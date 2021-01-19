@@ -9,11 +9,11 @@
 
 ### What I'm working on:
 
-#### [Gyromina](https://github.com/lowie375/gyromina) - JavaScript Discord bot
+**[Gyromina](https://github.com/lowie375/gyromina) - JavaScript Discord bot**  
 [![Current Status][gyr-now]][gyr-now]
 [![Development Status][gyr-dev]][gyr-dev]
 
-#### VSD - FRC scouting spreadsheets
+**VSD - FRC scouting spreadsheets**  
 [![Current Status][vsd-now]][vsd-now]
 [![Development Status][vsd-dev]][vsd-dev]
 
