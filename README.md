@@ -13,7 +13,7 @@
 [![Current Status][gyr-now]][gyr-now]
 [![Development Status][gyr-dev]][gyr-dev]
 
-**VSD - FRC scouting spreadsheets**  
+**[VSD](https://github.com/lowie375/vsd) - FRC scouting spreadsheets**  
 [![Current Status][vsd-now]][vsd-now]
 [![Development Status][vsd-dev]][vsd-dev]
 
@@ -26,7 +26,7 @@
 [email]: https://img.shields.io/badge/email-lowie375%40gmail.com-b84de6
 
 [gyr-now]: https://img.shields.io/badge/currently-online-brightgreen
-[vsd-now]: https://img.shields.io/badge/currently-porting-blue
+[vsd-now]: https://img.shields.io/badge/currently-archived-blueviolet
 
 [gyr-dev]: https://img.shields.io/badge/development-on%20hold-yellow
 [vsd-dev]: https://img.shields.io/badge/development-completed-lightgrey
