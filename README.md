@@ -13,6 +13,10 @@
 [![Current Status][gyr-now]][gyr-now]
 [![Development Status][gyr-dev]][gyr-dev]
 
+#### VSD - FRC scouting spreadsheets
+[![Current Status][vsd-now]][vsd-now]
+[![Development Status][vsd-dev]][vsd-dev]
+
 <!-- Badges -->
 [pronouns]: https://img.shields.io/badge/pronouns-he%2Fthey-e34fcd
 [country]: https://img.shields.io/badge/country-canada-f24040
@@ -22,4 +26,7 @@
 [email]: https://img.shields.io/badge/email-lowie375%40gmail.com-b84de6
 
 [gyr-now]: https://img.shields.io/badge/currently-online-brightgreen
-[gyr-dev]: https://img.shields.io/badge/development-on%20hold-yellowgreen
+[vsd-now]: https://img.shields.io/badge/currently-porting-blue
+
+[gyr-dev]: https://img.shields.io/badge/development-on%20hold-yellow
+[vsd-dev]: https://img.shields.io/badge/development-completed-lightgrey
