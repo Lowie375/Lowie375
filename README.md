@@ -9,11 +9,10 @@
 
 ### What I'm working on:
 
-**[Gyromina](https://github.com/lowie375/gyromina) - JavaScript Discord bot**  
+**[Gyromina](https://github.com/lowie375/gyromina) - JavaScript Discord bot**<br>
 [![Current Status][gyr-now]][gyr-now]
-[![Development Status][gyr-dev]][gyr-dev]
-
-**[VSD](https://github.com/lowie375/vsd) - FRC scouting spreadsheets**  
+[![Development Status][gyr-dev]][gyr-dev] <br>
+**[VSD](https://github.com/lowie375/vsd) - FRC scouting spreadsheets**<br>
 [![Current Status][vsd-now]][vsd-now]
 [![Development Status][vsd-dev]][vsd-dev]
 
@@ -29,4 +28,4 @@
 [vsd-now]: https://img.shields.io/badge/currently-archived-blueviolet
 
 [gyr-dev]: https://img.shields.io/badge/development-on%20hold-yellow
-[vsd-dev]: https://img.shields.io/badge/development-working%20on%20wiki-blue
+[vsd-dev]: https://img.shields.io/badge/development-working%20on%20docs-blue
