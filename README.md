@@ -2,7 +2,7 @@
 
 [![he/they][pronouns]][pronouns]
 [![Country: Canada][country]][country]
-[![Languages: English + French][lang]][lang]  
+[![Languages: English + Français][lang]][lang]  
 [![L375#6470 on Discord][discord]](https://discord.com)
 [![l375.weebly.com][website]](https://l375.weebly.com)
 [![lowie375@gmail.com][email]](mailto:lowie375@gmail.com)
@@ -11,7 +11,7 @@
 
 **[Gyromina](https://github.com/lowie375/gyromina) - JavaScript Discord bot**<br>
 [![Current Status][gyr-now]][gyr-now]
-[![Development Status][gyr-dev]][gyr-dev] <br>
+[![Development Status][gyr-dev]][gyr-dev]<br>
 **[VSD](https://github.com/lowie375/vsd) - FRC scouting spreadsheets**<br>
 [![Current Status][vsd-now]][vsd-now]
 [![Development Status][vsd-dev]][vsd-dev]
