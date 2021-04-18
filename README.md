@@ -28,4 +28,4 @@
 [vsd-now]: https://img.shields.io/badge/currently-archived-blueviolet
 
 [gyr-dev]: https://img.shields.io/badge/development-ongoing%20(1.1.0)-brightgreen
-[vsd-dev]: https://img.shields.io/badge/development-working%20on%20docs-blue
+[vsd-dev]: https://img.shields.io/badge/development-complete%3B%20working%20on%20docs-blue
