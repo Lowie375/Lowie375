@@ -27,5 +27,5 @@
 [gyr-now]: https://img.shields.io/badge/currently-online-brightgreen
 [vsd-now]: https://img.shields.io/badge/currently-archived-blueviolet
 
-[gyr-dev]: https://img.shields.io/badge/development-ongoing%20(1.1.0)-brightgreen
+[gyr-dev]: https://img.shields.io/badge/development-paused%20(1.1.0%20released)-blue
 [vsd-dev]: https://img.shields.io/badge/development-complete%3B%20working%20on%20docs-blue
