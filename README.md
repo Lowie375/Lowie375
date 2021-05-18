@@ -1,6 +1,6 @@
 ### Hey, I'm L375, aka Nanjou/N! 🖨️
 
-[![he/they][pronouns]][pronouns]
+[![they/he][pronouns]][pronouns]
 [![Country: Canada][country]][country]
 [![Languages: English + Français][lang]][lang]  
 [![L375#6470 on Discord][discord]](https://discord.com)
@@ -17,7 +17,7 @@
 [![Development Status][vsd-dev]][vsd-dev]
 
 <!-- Badges -->
-[pronouns]: https://img.shields.io/badge/pronouns-he%2Fthey-e34fcd
+[pronouns]: https://img.shields.io/badge/pronouns-they%2Fhe-e34fcd
 [country]: https://img.shields.io/badge/country-canada-f24040
 [lang]: https://img.shields.io/badge/languages-english%20%2B%20fran%C3%A7ais-f39316
 [discord]: https://img.shields.io/badge/discord-L375%236740-%237289DA
@@ -27,5 +27,5 @@
 [gyr-now]: https://img.shields.io/badge/currently-online-brightgreen
 [vsd-now]: https://img.shields.io/badge/currently-archived-blueviolet
 
-[gyr-dev]: https://img.shields.io/badge/development-paused%20(1.1.0%20released)-blue
+[gyr-dev]: https://img.shields.io/badge/development-watching%20for%20bugs%20(1.1.2)-blue
 [vsd-dev]: https://img.shields.io/badge/development-complete%3B%20working%20on%20docs-blue
