@@ -13,6 +13,9 @@
 **[Gyromina](https://github.com/lowie375/gyromina) - JavaScript Discord bot**  
 [![Current Status][gyr-now]][gyr-now]
 [![Development Status][gyr-dev]][gyr-dev]  
+**[prontbot](https://github.com/lowie375/prontbot) - JavaScript Twitch bot for [twitch.tv/l375](https://twitch.tv/l375)**  
+[![Current Status][pbt-now]][pbt-now]
+[![Development Status][pbt-dev]][pbt-dev]  
 **[VSD](https://github.com/lowie375/vsd) - FRC scouting spreadsheets**  
 [![Current Status][vsd-now]][vsd-now]
 [![Development Status][vsd-dev]][vsd-dev]
@@ -27,7 +30,9 @@
 [email]: https://img.shields.io/badge/email-lowie375%40gmail.com-b84de6
 
 [gyr-now]: https://img.shields.io/badge/currently-online-brightgreen
+[pbt-now]: https://img.shields.io/badge/currently-offline-lightgrey
 [vsd-now]: https://img.shields.io/badge/currently-archived-blueviolet
 
 [gyr-dev]: https://img.shields.io/badge/development-ongoing%20(1.2.0--alpha)-green
+[pbt-dev]: https://img.shields.io/badge/development-in%20progress%20(early%20indev)-brightgreen
 [vsd-dev]: https://img.shields.io/badge/development-complete%3B%20working%20on%20docs-blue
