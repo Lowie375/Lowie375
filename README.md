@@ -2,10 +2,10 @@
 
 [![they/he][pronouns]][pronouns]
 [![Country: Canada][country]][country]
-[![Languages: English + Français][lang]][lang]  
-[![L375#6470 on Discord][discord]](https://discord.com)
-[![@lowie375 on Twitter][twitter]](https://twitter.com/lowie375)
+[![Languages: English + Français][lang]][lang]
+[![L375#6470 on Discord][discord]](https://discord.com)  
 [![l375.weebly.com][website]](https://l375.weebly.com)
+[![@lowie375 on Twitter][twitter]](https://twitter.com/lowie375)
 [![lowie375@gmail.com][email]](mailto:lowie375@gmail.com)
 
 ### What I'm working on:
@@ -16,14 +16,14 @@
 **[prontbot](https://github.com/lowie375/prontbot) - JavaScript Twitch bot for [twitch.tv/l375](https://twitch.tv/l375)**  
 [![Current Status][pbt-now]][pbt-now]
 [![Development Status][pbt-dev]][pbt-dev]  
-**[VSD](https://github.com/lowie375/vsd) - FRC scouting spreadsheets**  
+**[VSD](https://github.com/lowie375/vsd) - FRC scouting spreadsheets** (archived)  
 [![Current Status][vsd-now]][vsd-now]
 [![Development Status][vsd-dev]][vsd-dev]
 
 <!-- Badges -->
 [pronouns]: https://img.shields.io/badge/pronouns-they%2Fhe-e34fcd
 [country]: https://img.shields.io/badge/country-canada-f24040
-[lang]: https://img.shields.io/badge/languages-english%20%2B%20fran%C3%A7ais-f39316
+[lang]: https://img.shields.io/badge/languages-en%2Ffr-f39316
 [discord]: https://img.shields.io/badge/discord-L375%236740-%235865F2
 [twitter]: https://img.shields.io/badge/twitter-%40lowie375-%231DA1F2
 [website]: https://img.shields.io/badge/website-l375.weebly.com-009663
