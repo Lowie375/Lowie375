@@ -33,6 +33,6 @@
 [pbt-now]: https://img.shields.io/badge/currently-offline-lightgrey
 [vsd-now]: https://img.shields.io/badge/currently-archived-blueviolet
 
-[gyr-dev]: https://img.shields.io/badge/development-ongoing%20(1.2.0--alpha)-green
+[gyr-dev]: https://img.shields.io/badge/development-ongoing%20(1.2.0--beta)-green
 [pbt-dev]: https://img.shields.io/badge/development-in%20progress%20(early%20indev)-green
 [vsd-dev]: https://img.shields.io/badge/development-complete%3B%20working%20on%20docs-blue
