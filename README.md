@@ -3,7 +3,7 @@
 [![they/he][pronouns]][pronouns]
 [![Country: Canada][country]][country]
 [![Languages: English + Français][lang]][lang]
-[![L375#6470 on Discord][discord]](https://discord.com)  
+[![L375#6470 on Discord][discord]](https://discord.gg/Bsaz4r7)  
 [![l375.weebly.com][website]](https://l375.weebly.com)
 [![@lowie375 on Twitter][twitter]](https://twitter.com/lowie375)
 [![lowie375@gmail.com][email]](mailto:lowie375@gmail.com)
