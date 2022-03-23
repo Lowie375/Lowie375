@@ -18,7 +18,10 @@
 [![Development Status][pbt-dev]][pbt-dev]  
 **[VSD](https://github.com/lowie375/vsd) - FRC scouting spreadsheets** (archived)  
 [![Current Status][vsd-now]][vsd-now]
-[![Development Status][vsd-dev]][vsd-dev]
+[![Development Status][vsd-dev]][vsd-dev]  
+**FRAMED - ???**  
+[![Current Status][frm-now]][frm-now]
+[![Development Status][frm-dev]][frm-dev]
 
 <!-- Badges -->
 [pronouns]: https://img.shields.io/badge/pronouns-they%2Fhe-e34fcd
@@ -32,7 +35,9 @@
 [gyr-now]: https://img.shields.io/badge/currently-online-brightgreen
 [pbt-now]: https://img.shields.io/badge/currently-offline-lightgrey
 [vsd-now]: https://img.shields.io/badge/currently-archived-blueviolet
+[frm-now]: https://img.shields.io/badge/currently-private-orange
 
 [gyr-dev]: https://img.shields.io/badge/development-in%20progesss%20(v1.3.0--alpha)-green
 [pbt-dev]: https://img.shields.io/badge/development-paused%20(early%20indev)-lightgrey
 [vsd-dev]: https://img.shields.io/badge/development-complete%3B%20working%20on%20docs-blue
+[frm-dev]: https://img.shields.io/badge/development-in%20progesss%20(indev.3)-brightgreen
