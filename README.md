@@ -40,4 +40,4 @@
 [gyr-dev]: https://img.shields.io/badge/development-in%20progesss%20(v1.3.0--alpha)-green
 [pbt-dev]: https://img.shields.io/badge/development-paused%20(early%20indev)-lightgrey
 [vsd-dev]: https://img.shields.io/badge/development-complete%3B%20working%20on%20docs-blue
-[frm-dev]: https://img.shields.io/badge/development-in%20progesss%20(indev.3)-brightgreen
+[frm-dev]: https://img.shields.io/badge/development-in%20progesss%20(indev.5)-brightgreen
