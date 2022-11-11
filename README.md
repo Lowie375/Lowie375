@@ -5,8 +5,8 @@
 [![Languages: English + Français][lang]][lang]
 [![L375#6470 on Discord][discord]](https://discord.gg/Bsaz4r7)  
 [![l375.weebly.com][website]](https://l375.weebly.com)
-[![@lowie375 on Twitter][twitter]](https://twitter.com/lowie375)
 [![lowie375@gmail.com][email]](mailto:lowie375@gmail.com)
+[![@l375 on Cohost][cohost]](https://www.cohost.org/l375)
 
 ### What I'm working on:
 
@@ -28,7 +28,7 @@
 [country]: https://img.shields.io/badge/country-canada-f24040
 [lang]: https://img.shields.io/badge/languages-en%2Ffr-f39316
 [discord]: https://img.shields.io/badge/discord-L375%236740-%235865F2
-[twitter]: https://img.shields.io/badge/twitter-%40lowie375-%231DA1F2
+[cohost]: https://img.shields.io/badge/cohost-%40l375-%2383254F
 [website]: https://img.shields.io/badge/website-l375.weebly.com-009663
 [email]: https://img.shields.io/badge/email-lowie375%40gmail.com-b84de6
 
