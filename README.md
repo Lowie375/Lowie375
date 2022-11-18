@@ -13,15 +13,15 @@
 **[Gyromina](https://github.com/lowie375/gyromina) - JavaScript Discord bot**  
 [![Current Status][gyr-now]][gyr-now]
 [![Development Status][gyr-dev]][gyr-dev]  
+**[FRAMED](https://github.com/lowie375/framed) - Swing-based Java game about frame rate**  
+[![Current Status][frm-now]][frm-now]
+[![Development Status][frm-dev]][frm-dev]  
 **[prontbot](https://github.com/lowie375/prontbot) - JavaScript Twitch bot for [twitch.tv/l375](https://twitch.tv/l375)**  
 [![Current Status][pbt-now]][pbt-now]
 [![Development Status][pbt-dev]][pbt-dev]  
 **[VSD](https://github.com/lowie375/vsd) - FRC scouting spreadsheets** (archived)  
 [![Current Status][vsd-now]][vsd-now]
-[![Development Status][vsd-dev]][vsd-dev]  
-**[FRAMED](https://github.com/lowie375/framed) - Swing-based Java game about frame rate**  
-[![Current Status][frm-now]][frm-now]
-[![Development Status][frm-dev]][frm-dev]
+[![Development Status][vsd-dev]][vsd-dev]
 
 <!-- Badges -->
 [pronouns]: https://img.shields.io/badge/pronouns-they%2Fhe-e34fcd
@@ -33,11 +33,12 @@
 [email]: https://img.shields.io/badge/email-lowie375%40gmail.com-b84de6
 
 [gyr-now]: https://img.shields.io/badge/currently-online-brightgreen
+[frm-now]: https://img.shields.io/badge/currently-public-brightgreen
 [pbt-now]: https://img.shields.io/badge/currently-offline-lightgrey
 [vsd-now]: https://img.shields.io/badge/currently-archived-blueviolet
-[frm-now]: https://img.shields.io/badge/currently-public-brightgreen
 
-[gyr-dev]: https://img.shields.io/badge/development-in%20progesss%20(v1.3.0--alpha)-green
+[gyr-dev]: https://img.shields.io/badge/development-low%20priority%3B%20in%20progress%20(v1.3.0--alpha)-yellowgreen
+[frm-dev]: https://img.shields.io/badge/development-paused%20(indev.5)-lightgrey
 [pbt-dev]: https://img.shields.io/badge/development-paused%20(early%20indev)-lightgrey
 [vsd-dev]: https://img.shields.io/badge/development-complete%3B%20working%20on%20docs-blue
-[frm-dev]: https://img.shields.io/badge/development-in%20progesss%20(indev.5)-brightgreen
+
