@@ -2,7 +2,7 @@
 
 [![they/he][pronouns]][pronouns]
 [![Country: Canada][country]][country]
-[![Languages: English + Français][lang]][lang]
+[![Languages: English + Français + (一点儿)中文][lang]][lang]
 [![L375#6470 on Discord][discord]](https://discord.gg/Bsaz4r7)  
 [![l375.weebly.com][website]](https://l375.weebly.com)
 [![lowie375@gmail.com][email]](mailto:lowie375@gmail.com)
@@ -26,7 +26,7 @@
 <!-- Badges -->
 [pronouns]: https://img.shields.io/badge/pronouns-they%2Fhe-e34fcd
 [country]: https://img.shields.io/badge/country-canada-f24040
-[lang]: https://img.shields.io/badge/languages-en%2Ffr-f39316
+[lang]: https://img.shields.io/badge/languages-en%2Ffr%2Fzh-f39316
 [discord]: https://img.shields.io/badge/discord-L375%236740-%235865F2
 [cohost]: https://img.shields.io/badge/cohost-%40l375-%2383254F
 [website]: https://img.shields.io/badge/website-l375.weebly.com-009663
