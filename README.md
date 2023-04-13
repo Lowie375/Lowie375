@@ -27,8 +27,8 @@
 [pronouns]: https://img.shields.io/badge/pronouns-they%2Fhe-e34fcd
 [country]: https://img.shields.io/badge/country-canada-f24040
 [lang]: https://img.shields.io/badge/languages-en%2Ffr%2Fzh-f39316
-[discord]: https://img.shields.io/badge/discord-L375%236740-%235865F2
-[cohost]: https://img.shields.io/badge/cohost-%40l375-%2383254F
+[discord]: https://img.shields.io/badge/discord%20(casual)-L375%236740-%235865F2
+[cohost]: https://img.shields.io/badge/cohost%20(casual)-%40l375-%2383254F
 [website]: https://img.shields.io/badge/website-l375.weebly.com-009663
 [email]: https://img.shields.io/badge/email-lowie375%40gmail.com-b84de6
 
