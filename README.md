@@ -3,12 +3,22 @@
 [![they/he][pronouns]][pronouns]
 [![Country: Canada][country]][country]
 [![Languages: English + Français + (一点儿)中文][lang]][lang]
-[![L375#6470 on Discord][discord]](https://discord.gg/Bsaz4r7)  
+[![@l375 on Discord][discord]](https://discord.gg/Bsaz4r7)  
 [![l375.weebly.com][website]](https://l375.weebly.com)
 [![lowie375@gmail.com][email]](mailto:lowie375@gmail.com)
 [![@l375 on Cohost][cohost]](https://www.cohost.org/l375)
 
-### What I'm working on:
+### Notable contributions:
+
+**[Minetest Classroom](https://github.com/ubc-minetest-classroom/minetest_classroom) - System for running virtual classrooms in Minetest**  
+[**`minetest_classroom`**](https://github.com/ubc-minetest-classroom/minetest_classroom) - Primary framework + utilies  
+[![My current status][mtc-mtc]][mtc-mtc]  
+[**`magnify`**](https://github.com/ubc-minetest-classroom/magnify) - Mod for viewing information about various in-game plant species  
+[![My current status][mag-mtc]][mag-mtc]  
+[**`forestry-tools`**](https://github.com/ubc-minetest-classroom/forestry-tools) - Forestry tools for teaching usage  
+[![My current status][for-mtc]][for-mtc]  
+
+### Other things I'm working on:
 
 **[Gyromina](https://github.com/lowie375/gyromina) - JavaScript Discord bot**  
 [![Current Status][gyr-now]][gyr-now]
@@ -27,16 +37,19 @@
 [pronouns]: https://img.shields.io/badge/pronouns-they%2Fhe-e34fcd
 [country]: https://img.shields.io/badge/country-canada-f24040
 [lang]: https://img.shields.io/badge/languages-en%2Ffr%2Fzh-f39316
-[discord]: https://img.shields.io/badge/discord%20(casual)-L375%236740-%235865F2
+[discord]: https://img.shields.io/badge/discord%20(casual)-%40l375-%235865F2
 [cohost]: https://img.shields.io/badge/cohost%20(casual)-%40l375-%2383254F
 [website]: https://img.shields.io/badge/website-l375.weebly.com-009663
 [email]: https://img.shields.io/badge/email-lowie375%40gmail.com-b84de6
+
+[mtc-mtc]: https://img.shields.io/badge/my%20current%20status-active%20developer-brightgreen
+[mag-mtc]: https://img.shields.io/badge/my%20current%20status-contributor-lightgrey
+[for-mtc]: https://img.shields.io/badge/my%20current%20status-contributor-lightgrey
 
 [gyr-now]: https://img.shields.io/badge/currently-online-brightgreen
 [frm-now]: https://img.shields.io/badge/currently-public-brightgreen
 [pbt-now]: https://img.shields.io/badge/currently-offline-lightgrey
 [vsd-now]: https://img.shields.io/badge/currently-archived-blueviolet
-
 [gyr-dev]: https://img.shields.io/badge/development-low%20priority%3B%20in%20progress%20(v1.3.0--alpha)-yellowgreen
 [frm-dev]: https://img.shields.io/badge/development-paused%20(indev.5)-lightgrey
 [pbt-dev]: https://img.shields.io/badge/development-paused%20(early%20indev)-lightgrey
