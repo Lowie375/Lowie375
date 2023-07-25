@@ -1,4 +1,4 @@
-### Hey, I'm L375, aka Nanjou/N! 🖨️
+## Hey! I'm L375, aka Nanjou/N! 🖨️
 
 [![they/he][pronouns]][pronouns]
 [![Country: Canada][country]][country]
@@ -8,7 +8,7 @@
 [![lowie375@gmail.com][email]](mailto:lowie375@gmail.com)
 [![@l375 on Cohost][cohost]](https://www.cohost.org/l375)
 
-### Notable contributions:
+### Active projects
 
 **[Minetest Classroom](https://github.com/ubc-minetest-classroom/minetest_classroom) - System for running virtual classrooms in Minetest**  
 [**`minetest_classroom`**](https://github.com/ubc-minetest-classroom/minetest_classroom) - Primary framework + utilies  
@@ -18,7 +18,7 @@
 [**`forestry-tools`**](https://github.com/ubc-minetest-classroom/forestry-tools) - Forestry tools for teaching usage  
 [![My current status][for-mtc]][for-mtc]  
 
-### Other things I'm working on:
+### Personal projects
 
 **[Gyromina](https://github.com/lowie375/gyromina) - JavaScript Discord bot**  
 [![Current Status][gyr-now]][gyr-now]
@@ -33,6 +33,12 @@
 [![Current Status][vsd-now]][vsd-now]
 [![Development Status][vsd-dev]][vsd-dev]
 
+### Other contributions
+
+**Minecraft maps made for [PGM](https://github.com/PGMDev/PGM)**  
+[**`The Waiting Room`**](https://github.com/OvercastCommunity/CommunityMaps/tree/master/dtcm/standard/the_waiting_room) - Destroy the Monument + TNT  
+[![My current status][pgm-twr]][pgm-twr-xml]  
+
 <!-- Badges -->
 [pronouns]: https://img.shields.io/badge/pronouns-they%2Fhe-e34fcd
 [country]: https://img.shields.io/badge/country-canada-f24040
@@ -43,8 +49,11 @@
 [email]: https://img.shields.io/badge/email-lowie375%40gmail.com-b84de6
 
 [mtc-mtc]: https://img.shields.io/badge/my%20current%20status-active%20developer-brightgreen
-[mag-mtc]: https://img.shields.io/badge/my%20current%20status-contributor-lightgrey
-[for-mtc]: https://img.shields.io/badge/my%20current%20status-contributor-lightgrey
+[mag-mtc]: https://img.shields.io/badge/my%20current%20status-contributor-blueviolet
+[for-mtc]: https://img.shields.io/badge/my%20current%20status-contributor-blueviolet
+
+[pgm-twr]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FOvercastCommunity%2FCommunityMaps%2Fmaster%2Fdtcm%2Fstandard%2Fthe_waiting_room%2Fmap.xml&query=%2F%2Fmap%2Fversion&label=map%20version
+[pgm-twr-xml]: https://github.com/OvercastCommunity/CommunityMaps/blob/master/dtcm/standard/the_waiting_room/map.xml
 
 [gyr-now]: https://img.shields.io/badge/currently-online-brightgreen
 [frm-now]: https://img.shields.io/badge/currently-public-brightgreen
