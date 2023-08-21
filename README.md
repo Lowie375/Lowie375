@@ -15,7 +15,6 @@
 [![magnify][mag-mtc]](https://github.com/ubc-minetest-classroom/magnify) <sup>-</sup> <sup>**Mod for viewing information about various in-game plant species**</sup>  
 [![forestry-tools][for-mtc]](https://github.com/ubc-minetest-classroom/forestry-tools) <sup>-</sup> <sup>**Mod with forestry tools for teaching usage**</sup>  
 
-
 ### Personal projects
 
 **[Gyromina](https://github.com/lowie375/gyromina) - JavaScript Discord bot**  
@@ -45,7 +44,7 @@
 [website]: https://img.shields.io/badge/website-l375.weebly.com-009663
 [email]: https://img.shields.io/badge/email-lowie375%40gmail.com-b84de6
 
-[mtc-mtc]: https://img.shields.io/badge/minetest__classroom-active%20developer-brightgreen
+[mtc-mtc]: https://img.shields.io/badge/minetest__classroom-active%20developer-18b319
 [mag-mtc]: https://img.shields.io/badge/magnify-contributor-blueviolet
 [for-mtc]: https://img.shields.io/badge/forestry--tools-contributor-blueviolet
 
@@ -56,8 +55,8 @@
 [pgm-dtm]: https://img.shields.io/badge/DTM-blueviolet
 [pgm-tnt]: https://img.shields.io/badge/TNT-redviolet
 
-[gyr-now]: https://img.shields.io/badge/currently-online-brightgreen
-[frm-now]: https://img.shields.io/badge/currently-public-brightgreen
+[gyr-now]: https://img.shields.io/badge/currently-online-18b319
+[frm-now]: https://img.shields.io/badge/currently-public-18b319
 [pbt-now]: https://img.shields.io/badge/currently-offline-lightgrey
 [vsd-now]: https://img.shields.io/badge/currently-archived-blueviolet
 [gyr-dev]: https://img.shields.io/badge/development-low%20priority%3B%20in%20progress%20(v1.3.0--alpha)-yellowgreen
