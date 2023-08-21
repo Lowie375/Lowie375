@@ -11,12 +11,10 @@
 ### Active projects
 
 **[Minetest Classroom](https://github.com/ubc-minetest-classroom/minetest_classroom) - System for running virtual classrooms in Minetest**  
-[**`minetest_classroom`**](https://github.com/ubc-minetest-classroom/minetest_classroom) - Primary framework + utilies  
-[![My current status][mtc-mtc]][mtc-mtc]  
-[**`magnify`**](https://github.com/ubc-minetest-classroom/magnify) - Mod for viewing information about various in-game plant species  
-[![My current status][mag-mtc]][mag-mtc]  
-[**`forestry-tools`**](https://github.com/ubc-minetest-classroom/forestry-tools) - Forestry tools for teaching usage  
-[![My current status][for-mtc]][for-mtc]  
+[![minetest_classroom][mtc-mtc]](https://github.com/ubc-minetest-classroom/minetest_classroom) <sup>-</sup> <sup>**Primary classroom framework and utilies**</sup>  
+[![magnify][mag-mtc]](https://github.com/ubc-minetest-classroom/magnify) <sup>-</sup> <sup>**Mod for viewing information about various in-game plant species**</sup>  
+[![forestry-tools][for-mtc]](https://github.com/ubc-minetest-classroom/forestry-tools) <sup>-</sup> <sup>**Mod with forestry tools for teaching usage**</sup>  
+
 
 ### Personal projects
 
@@ -36,8 +34,7 @@
 ### Other contributions
 
 **Minecraft maps made for [PGM](https://github.com/PGMDev/PGM)**  
-[**`The Waiting Room`**](https://github.com/OvercastCommunity/CommunityMaps/tree/master/dtcm/standard/the_waiting_room) - Destroy the Monument + TNT  
-[![My current status][pgm-twr]][pgm-twr-xml]  
+[![The Waiting Room][pgm-twr-ver]][pgm-twr] <sup>-</sup> [![DTM](https://img.shields.io/badge/-DTM-blueviolet)][pgm-twr-xml] [![TNT](https://img.shields.io/badge/-TNT-red)][pgm-twr-xml]
 
 <!-- Badges -->
 [pronouns]: https://img.shields.io/badge/pronouns-they%2Fhe-e34fcd
@@ -48,12 +45,16 @@
 [website]: https://img.shields.io/badge/website-l375.weebly.com-009663
 [email]: https://img.shields.io/badge/email-lowie375%40gmail.com-b84de6
 
-[mtc-mtc]: https://img.shields.io/badge/my%20current%20status-active%20developer-brightgreen
-[mag-mtc]: https://img.shields.io/badge/my%20current%20status-contributor-blueviolet
-[for-mtc]: https://img.shields.io/badge/my%20current%20status-contributor-blueviolet
+[mtc-mtc]: https://img.shields.io/badge/minetest__classroom-active%20developer-brightgreen
+[mag-mtc]: https://img.shields.io/badge/magnify-contributor-blueviolet
+[for-mtc]: https://img.shields.io/badge/forestry--tools-contributor-blueviolet
 
-[pgm-twr]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FOvercastCommunity%2FCommunityMaps%2Fmaster%2Fdtcm%2Fstandard%2Fthe_waiting_room%2Fmap.xml&query=%2F%2Fmap%2Fversion&label=map%20version
-[pgm-twr-xml]: https://github.com/OvercastCommunity/CommunityMaps/blob/master/dtcm/standard/the_waiting_room/map.xml
+[pgm-twr]: https://github.com/OvercastCommunity/CommunityMaps/tree/master/dtcm/standard/the_waiting_room
+[pgm-twr-xml]: https://github.com/OvercastCommunity/CommunityMaps/tree/master/dtcm/standard/the_waiting_room/map.xml
+[pgm-twr-ver]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FOvercastCommunity%2FCommunityMaps%2Fmaster%2Fdtcm%2Fstandard%2Fthe_waiting_room%2Fmap.xml&query=%2F%2Fmap%2Fversion&prefix=v&label=The%20Waiting%20Room
+
+[pgm-dtm]: https://img.shields.io/badge/DTM-blueviolet
+[pgm-tnt]: https://img.shields.io/badge/TNT-redviolet
 
 [gyr-now]: https://img.shields.io/badge/currently-online-brightgreen
 [frm-now]: https://img.shields.io/badge/currently-public-brightgreen
