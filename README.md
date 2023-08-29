@@ -1,12 +1,13 @@
 ## Hey! I'm L375, aka Nanjou/N! 🖨️
 
-[![they/he][pronouns]][pronouns]
-[![Country: Canada][country]][country]
-[![Languages: English + Français + (一点儿)中文][lang]][lang]
+[![they/he][pronouns]](https://pronouns.page/@l375)
+[![Canada][country]][country]
+[![English + Français + (一点儿)中文][lang]][lang]
 [![l375.weebly.com][website]](https://l375.weebly.com)
 [![lowie375@gmail.com][email]](mailto:lowie375@gmail.com)  
 [![@l375 on Discord][discord]](https://discord.gg/Bsaz4r7)
 [![@l375 on Cohost][cohost]](https://www.cohost.org/l375)
+[![@l375 on Twitch][twitch]](https://twitch.tv/l375)
 [![@l375 on YouTube][youtube]](https://www.youtube.com/@l375)
 
 ### Active projects
@@ -18,20 +19,22 @@
 
 ### Personal projects
 
-**[Gyromina](https://github.com/lowie375/gyromina) - JavaScript Discord bot**  
-[![Current Status][gyr-now]][gyr-now]
-[![Version][gyr-ver]][gyr-ver]
-[![Development Status][gyr-dev]][gyr-dev]  
-**[FRAMED](https://github.com/lowie375/framed) - Swing-based Java game about frame rate**  
-[![Current Status][frm-now]][frm-now]
-[![Development Status][frm-dev]][frm-dev]  
-**[prontbot](https://github.com/lowie375/prontbot) - JavaScript Twitch bot for [twitch.tv/l375](https://twitch.tv/l375)**  
-[![Current Status][pbt-now]][pbt-now]
-[![Version][pbt-ver]][pbt-ver]
-[![Development Status][pbt-dev]][pbt-dev]  
-**[VSD](https://github.com/lowie375/vsd) - FRC scouting spreadsheets** (archived)  
-[![Current Status][vsd-now]][vsd-now]
-[![Development Status][vsd-dev]][vsd-dev]
+**[Gyromina][gyr] - JavaScript Discord bot**  
+[![Current Status][gyr-now]][gyr]
+[![Version][gyr-ver]][gyr]
+[![Development Status][gyr-dev]][gyr]  
+**[FRAMED][frm] - Swing-based Java game about frame rate**  
+[![Current Status][frm-now]][frm]
+[![Version][frm-ver]][frm]
+[![Development Status][frm-dev]][frm]  
+**[prontbot][pbt] - JavaScript Twitch bot for [twitch.tv/l375](https://twitch.tv/l375)**  
+[![Current Status][pbt-now]][pbt]
+[![Version][pbt-ver]][pbt]
+[![Development Status][pbt-dev]][pbt]  
+**[VSD][vsd] - FRC scouting spreadsheets** (archived)  
+[![Current Status][vsd-now]][vsd]
+[![Version][vsd-ver]][vsd]
+[![Development Status][vsd-dev]][vsd]
 
 ### Other contributions
 
@@ -46,6 +49,7 @@
 [email]: https://img.shields.io/badge/lowie375%40gmail.com-b84de6
 [discord]: https://img.shields.io/badge/discord%20(casual)-%40l375-%235865F2
 [cohost]: https://img.shields.io/badge/cohost%20(casual)-%40l375-%2383254F
+[twitch]: https://img.shields.io/badge/twitch%20(casual)-%40l375-9146ff
 [youtube]: https://img.shields.io/badge/youtube-%40l375-ff0000
 
 [mtc-mtc]: https://img.shields.io/badge/minetest__classroom-active%20developer-18b319
@@ -58,17 +62,19 @@
 [pgm-dtm]: https://img.shields.io/badge/DTM-blueviolet
 [pgm-tnt]: https://img.shields.io/badge/TNT-redviolet
 
+[gyr]: https://github.com/lowie375/gyromina
 [gyr-now]: https://img.shields.io/badge/online-18b319
 [gyr-ver]: https://img.shields.io/github/package-json/v/lowie375/gyromina?label=
 [gyr-dev]: https://img.shields.io/badge/low%20priority-yellowgreen
+[frm]: https://github.com/lowie375/framed
 [frm-now]: https://img.shields.io/badge/public-18b319
+[frm-ver]: https://img.shields.io/badge/indev-orange
 [frm-dev]: https://img.shields.io/badge/development%20paused-lightgrey
+[pbt]: https://github.com/lowie375/prontbot
 [pbt-now]: https://img.shields.io/badge/offline-lightgrey
 [pbt-ver]: https://img.shields.io/github/package-json/v/lowie375/prontbot?label=
 [pbt-dev]: https://img.shields.io/badge/development%20paused-lightgrey
+[vsd]: https://github.com/lowie375/vsd
 [vsd-now]: https://img.shields.io/badge/archived-blueviolet
-[vsd-dev]: https://img.shields.io/badge/complete%3B%20working%20on%20docs-blue
-
-
-
-
+[vsd-ver]: https://img.shields.io/badge/complete-blue
+[vsd-dev]: https://img.shields.io/badge/working%20on%20docs-blue
