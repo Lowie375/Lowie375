@@ -10,13 +10,6 @@
 [![@l375 on Twitch][twitch]](https://twitch.tv/l375)
 [![@l375 on YouTube][youtube]](https://www.youtube.com/@l375)
 
-### Active projects
-
-**[Minetest Classroom](https://github.com/ubc-minetest-classroom/minetest_classroom) - System for running virtual classrooms in Minetest**  
-[![minetest_classroom][mtc-mtc]](https://github.com/ubc-minetest-classroom/minetest_classroom) <sup>-</sup> <sup>**Primary classroom framework and utilies**</sup>  
-[![magnify][mag-mtc]](https://github.com/ubc-minetest-classroom/magnify) <sup>-</sup> <sup>**Mod for viewing information about various in-game plant species**</sup>  
-[![forestry-tools][for-mtc]](https://github.com/ubc-minetest-classroom/forestry-tools) <sup>-</sup> <sup>**Mod with forestry tools for teaching usage**</sup>  
-
 ### Personal projects
 
 **[Gyromina][gyr] - JavaScript Discord bot**  
@@ -31,15 +24,19 @@
 [![Current Status][pbt-now]][pbt]
 [![Version][pbt-ver]][pbt]
 [![Development Status][pbt-dev]][pbt]  
-**[VSD][vsd] - FRC scouting spreadsheets** (archived)  
+**[VSD][vsd] - FRC scouting spreadsheets**  
 [![Current Status][vsd-now]][vsd]
 [![Version][vsd-ver]][vsd]
 [![Development Status][vsd-dev]][vsd]
 
 ### Other contributions
 
+**[Minetest Classroom](https://github.com/ubc-minetest-classroom/minetest_classroom) - System for running virtual classrooms in Minetest**  
+[![minetest_classroom][mtc-mtc]](https://github.com/ubc-minetest-classroom/minetest_classroom) <sup>-</sup> <sup>**Primary classroom framework and utilies**</sup>  
+[![magnify][mag-mtc]](https://github.com/ubc-minetest-classroom/magnify) <sup>-</sup> <sup>**Mod for viewing information about various in-game plant species**</sup>  
+[![forestry-tools][for-mtc]](https://github.com/ubc-minetest-classroom/forestry-tools) <sup>-</sup> <sup>**Mod with forestry tools for teaching usage**</sup>  
 **Minecraft maps made for [PGM](https://github.com/PGMDev/PGM)**  
-[![The Waiting Room][pgm-twr-ver]][pgm-twr] <sup>-</sup> [![DTM](https://img.shields.io/badge/-DTM-blueviolet)][pgm-twr-xml] [![TNT](https://img.shields.io/badge/-TNT-red)][pgm-twr-xml]
+[![The Waiting Room][pgm-twr-ver]][pgm-twr] <sup>-</sup> [![DTM](https://img.shields.io/badge/-DTM-blueviolet)][pgm-twr-xml] [![TNT](https://img.shields.io/badge/-TNT-red)][pgm-twr-xml]  
 
 <!-- Badges -->
 [pronouns]: https://img.shields.io/badge/they%2Fhe-e34fcd
@@ -52,7 +49,7 @@
 [twitch]: https://img.shields.io/badge/twitch%20(casual)-%40l375-9146ff
 [youtube]: https://img.shields.io/badge/youtube-%40l375-ff0000
 
-[mtc-mtc]: https://img.shields.io/badge/minetest__classroom-active%20developer-18b319
+[mtc-mtc]: https://img.shields.io/badge/minetest__classroom-contributor-blueviolet
 [mag-mtc]: https://img.shields.io/badge/magnify-contributor-blueviolet
 [for-mtc]: https://img.shields.io/badge/forestry--tools-contributor-blueviolet
 
