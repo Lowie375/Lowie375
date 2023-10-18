@@ -35,8 +35,8 @@
 [![minetest_classroom][mtc-mtc]](https://github.com/ubc-minetest-classroom/minetest_classroom) <sup>-</sup> <sup>**Primary classroom framework and utilies**</sup>  
 [![magnify][mag-mtc]](https://github.com/ubc-minetest-classroom/magnify) <sup>-</sup> <sup>**Mod for viewing information about various in-game plant species**</sup>  
 [![forestry-tools][for-mtc]](https://github.com/ubc-minetest-classroom/forestry-tools) <sup>-</sup> <sup>**Mod with forestry tools for teaching usage**</sup>  
-**Minecraft maps made for [PGM](https://github.com/PGMDev/PGM)**  
-[![The Waiting Room][pgm-twr-ver]][pgm-twr] <sup>-</sup> [![DTM](https://img.shields.io/badge/-DTM-blueviolet)][pgm-twr-xml] [![TNT](https://img.shields.io/badge/-TNT-red)][pgm-twr-xml]  
+**Minecraft maps**  
+[![The Waiting Room][pgm-twr-ver]][pgm-twr] [![PGM](https://img.shields.io/badge/PGM-ff4500)][pgm] <sup>-</sup> [![DTM](https://img.shields.io/badge/DTM-blueviolet)][pgm-twr-xml] [![TNT](https://img.shields.io/badge/TNT-red)][pgm-twr-xml]  
 
 <!-- Badges -->
 [pronouns]: https://img.shields.io/badge/they%2Fhe-e34fcd
@@ -44,18 +44,19 @@
 [lang]: https://img.shields.io/badge/en%2Ffr%2Fzh-f39316
 [website]: https://img.shields.io/badge/https%3A%2F%2Fl375.weebly.com-009663
 [email]: https://img.shields.io/badge/lowie375%40gmail.com-b84de6
-[discord]: https://img.shields.io/badge/discord%20(casual)-%40l375-%235865F2
-[cohost]: https://img.shields.io/badge/cohost%20(casual)-%40l375-%2383254F
-[twitch]: https://img.shields.io/badge/twitch%20(casual)-%40l375-9146ff
+[discord]: https://img.shields.io/badge/discord-%40l375-%235865F2
+[cohost]: https://img.shields.io/badge/cohost-%40l375-%2383254F
+[twitch]: https://img.shields.io/badge/twitch-%40l375-9146ff
 [youtube]: https://img.shields.io/badge/youtube-%40l375-ff0000
 
 [mtc-mtc]: https://img.shields.io/badge/minetest__classroom-contributor-blueviolet
 [mag-mtc]: https://img.shields.io/badge/magnify-contributor-blueviolet
 [for-mtc]: https://img.shields.io/badge/forestry--tools-contributor-blueviolet
 
-[pgm-twr]: https://github.com/OvercastCommunity/CommunityMaps/tree/master/dtcm/standard/the_waiting_room
-[pgm-twr-xml]: https://github.com/OvercastCommunity/CommunityMaps/tree/master/dtcm/standard/the_waiting_room/map.xml
-[pgm-twr-ver]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FOvercastCommunity%2FCommunityMaps%2Fmaster%2Fdtcm%2Fstandard%2Fthe_waiting_room%2Fmap.xml&query=%2F%2Fmap%2Fversion&prefix=v&label=The%20Waiting%20Room
+[pgm]: https://github.com/PGMDev/PGM
+[pgm-twr]: https://github.com/OvercastCommunity/CommunityMaps/tree/master/dtcm/the_waiting_room
+[pgm-twr-xml]: https://github.com/OvercastCommunity/CommunityMaps/tree/master/dtcm/the_waiting_room/map.xml
+[pgm-twr-ver]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FOvercastCommunity%2FCommunityMaps%2Fmaster%2Fdtcm%2Fthe_waiting_room%2Fmap.xml&query=%2F%2Fmap%2Fversion&prefix=v&label=The%20Waiting%20Room
 [pgm-dtm]: https://img.shields.io/badge/DTM-blueviolet
 [pgm-tnt]: https://img.shields.io/badge/TNT-redviolet
 
