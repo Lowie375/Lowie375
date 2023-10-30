@@ -10,6 +10,15 @@
 [![@l375 on Twitch][twitch]](https://twitch.tv/l375)
 [![@l375 on YouTube][youtube]](https://www.youtube.com/@l375)
 
+### Notable contributions
+
+**[Minetest Classroom][mtc] - System for running virtual classrooms in Minetest**  
+[![minetest_classroom][mtc-mtc-img]][mtc] [mtc-gui][mtc] [mtc-back][mtc-mag] <sup>-</sup> <sup>**Primary classroom framework and utilies**</sup>  
+[![magnify][mtc-mag-img]][mtc-mag] [mtc-gui][mtc-mag] [mtc-back][mtc-mag] <sup>-</sup> <sup>**Mod for viewing information about various in-game plant species**</sup>  
+[![forestry-tools][mtc-for-img]][mtc-for] [mtc-range][mtc-for] <sup>-</sup> <sup>**Mod with forestry tools for teaching usage**</sup>  
+**Minecraft maps**  
+[![The Waiting Room][pgm-twr-ver]][pgm-twr] [![PGM](https://img.shields.io/badge/PGM-ff4500)][pgm] <sup>-</sup> [![DTM](https://img.shields.io/badge/DTM-blueviolet)][pgm-twr-xml] [![TNT](https://img.shields.io/badge/TNT-red)][pgm-twr-xml]  
+
 ### Personal projects
 
 **[Gyromina][gyr] - JavaScript Discord bot**  
@@ -29,15 +38,6 @@
 [![Version][vsd-ver]][vsd]
 [![Development Status][vsd-dev]][vsd]
 
-### Other contributions
-
-**[Minetest Classroom](https://github.com/ubc-minetest-classroom/minetest_classroom) - System for running virtual classrooms in Minetest**  
-[![minetest_classroom][mtc-mtc]](https://github.com/ubc-minetest-classroom/minetest_classroom) <sup>-</sup> <sup>**Primary classroom framework and utilies**</sup>  
-[![magnify][mag-mtc]](https://github.com/ubc-minetest-classroom/magnify) <sup>-</sup> <sup>**Mod for viewing information about various in-game plant species**</sup>  
-[![forestry-tools][for-mtc]](https://github.com/ubc-minetest-classroom/forestry-tools) <sup>-</sup> <sup>**Mod with forestry tools for teaching usage**</sup>  
-**Minecraft maps**  
-[![The Waiting Room][pgm-twr-ver]][pgm-twr] [![PGM](https://img.shields.io/badge/PGM-ff4500)][pgm] <sup>-</sup> [![DTM](https://img.shields.io/badge/DTM-blueviolet)][pgm-twr-xml] [![TNT](https://img.shields.io/badge/TNT-red)][pgm-twr-xml]  
-
 <!-- Badges -->
 [pronouns]: https://img.shields.io/badge/they%2Fhe-e34fcd
 [country]: https://img.shields.io/badge/canada-f24040
@@ -49,9 +49,15 @@
 [twitch]: https://img.shields.io/badge/twitch-%40l375-9146ff
 [youtube]: https://img.shields.io/badge/youtube-%40l375-ff0000
 
-[mtc-mtc]: https://img.shields.io/badge/minetest__classroom-contributor-blueviolet
-[mag-mtc]: https://img.shields.io/badge/magnify-contributor-blueviolet
-[for-mtc]: https://img.shields.io/badge/forestry--tools-contributor-blueviolet
+[mtc]: https://github.com/ubc-minetest-classroom/minetest_classroom
+[mtc-mag]: https://github.com/ubc-minetest-classroom/magnify
+[mtc-for]: https://github.com/ubc-minetest-classroom/forestry-tools
+[mtc-mtc-img]: https://img.shields.io/badge/minetest__classroom-contributor-blueviolet
+[mtc-mag-img]: https://img.shields.io/badge/magnify-primary%20contributor-blueviolet
+[mtc-for-img]: https://img.shields.io/badge/forestry--tools-contributor-blueviolet
+[mtc-gui]: https://img.shields.io/badge/GUI-blue
+[mtc-back]: https://img.shields.io/badge/backend-blueviolet
+[mtc-range]: https://img.shields.io/badge/rangefinder-yellow
 
 [pgm]: https://github.com/PGMDev/PGM
 [pgm-twr]: https://github.com/OvercastCommunity/CommunityMaps/tree/master/dtcm/the_waiting_room
@@ -67,7 +73,7 @@
 [frm]: https://github.com/lowie375/framed
 [frm-now]: https://img.shields.io/badge/public-18b319
 [frm-ver]: https://img.shields.io/badge/indev-orange
-[frm-dev]: https://img.shields.io/badge/development%20paused-lightgrey
+[frm-dev]: https://img.shields.io/badge/low%20priority-yellowgreen
 [pbt]: https://github.com/lowie375/prontbot
 [pbt-now]: https://img.shields.io/badge/offline-lightgrey
 [pbt-ver]: https://img.shields.io/github/package-json/v/lowie375/prontbot?label=
