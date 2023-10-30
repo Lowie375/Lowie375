@@ -13,9 +13,9 @@
 ### Notable contributions
 
 **[Minetest Classroom][mtc] - System for running virtual classrooms in Minetest**  
-[![minetest_classroom][mtc-mtc-img]][mtc] [mtc-gui][mtc] [mtc-back][mtc-mag] <sup>-</sup> <sup>**Primary classroom framework and utilies**</sup>  
-[![magnify][mtc-mag-img]][mtc-mag] [mtc-gui][mtc-mag] [mtc-back][mtc-mag] <sup>-</sup> <sup>**Mod for viewing information about various in-game plant species**</sup>  
-[![forestry-tools][mtc-for-img]][mtc-for] [mtc-range][mtc-for] <sup>-</sup> <sup>**Mod with forestry tools for teaching usage**</sup>  
+[![minetest_classroom][mtc-mtc-img]][mtc] [![GUI][mtc-gui]][mtc] [![Backend][mtc-back]][mtc-mag] <sup>-</sup> <sup>**Primary classroom framework and utilies**</sup>  
+[![magnify][mtc-mag-img]][mtc-mag] [![GUI][mtc-gui]][mtc-mag] [![Backend][mtc-back]][mtc-mag] <sup>-</sup> <sup>**Mod for viewing information about various in-game plant species**</sup>  
+[![forestry-tools][mtc-for-img]][mtc-for] [![Rangefinder][mtc-range]][mtc-for] [![HUD][mtc-hud]][mtc-for] <sup>-</sup> <sup>**Mod with forestry tools for teaching usage**</sup>  
 **Minecraft maps**  
 [![The Waiting Room][pgm-twr-ver]][pgm-twr] [![PGM](https://img.shields.io/badge/PGM-ff4500)][pgm] <sup>-</sup> [![DTM](https://img.shields.io/badge/DTM-blueviolet)][pgm-twr-xml] [![TNT](https://img.shields.io/badge/TNT-red)][pgm-twr-xml]  
 
@@ -56,8 +56,10 @@
 [mtc-mag-img]: https://img.shields.io/badge/magnify-primary%20contributor-blueviolet
 [mtc-for-img]: https://img.shields.io/badge/forestry--tools-contributor-blueviolet
 [mtc-gui]: https://img.shields.io/badge/GUI-blue
+[mtc-hud]: https://img.shields.io/badge/HUD-blue
 [mtc-back]: https://img.shields.io/badge/backend-blueviolet
-[mtc-range]: https://img.shields.io/badge/rangefinder-yellow
+[mtc-range]: https://img.shields.io/badge/rangefinder-brightgreen
+<!-- e8e10e -->
 
 [pgm]: https://github.com/PGMDev/PGM
 [pgm-twr]: https://github.com/OvercastCommunity/CommunityMaps/tree/master/dtcm/the_waiting_room
