@@ -1,12 +1,11 @@
 ## Hey! I'm L375, aka Nanjou/N! 🖨️
 
-[![they/he][pronouns]](https://pronouns.page/@l375)
+[![they/he/any][pronouns]](https://pronouns.page/@l375)
 [![Canada][country]][country]
 [![English + Français + (一点儿)中文][lang]][lang]
 [![l375.weebly.com][website]](https://l375.weebly.com)
 [![lowie375@gmail.com][email]](mailto:lowie375@gmail.com)  
 [![@l375 on Discord][discord]](https://discord.gg/Bsaz4r7)
-[![@l375 on Cohost][cohost]](https://www.cohost.org/l375)
 [![@l375 on Twitch][twitch]](https://twitch.tv/l375)
 [![@l375 on YouTube][youtube]](https://www.youtube.com/@l375)
 
@@ -39,7 +38,7 @@
 [![Development Status][vsd-dev]][vsd]
 
 <!-- Badges -->
-[pronouns]: https://img.shields.io/badge/they%2Fhe-e34fcd
+[pronouns]: https://img.shields.io/badge/they%2Fhe%2Fany-e34fcd
 [country]: https://img.shields.io/badge/canada-f24040
 [lang]: https://img.shields.io/badge/en%2Ffr%2Fzh-f39316
 [website]: https://img.shields.io/badge/https%3A%2F%2Fl375.weebly.com-009663
