@@ -1,6 +1,6 @@
 ## Hey! I'm L375, aka Nanjou/N! 🖨️
 
-[![they/he/any][pronouns]](https://pronouns.page/@l375)
+[![any][pronouns]](https://pronouns.page/@l375)
 [![Canada][country]][country]
 [![English + Français + (一点儿)中文][lang]][lang]
 [![l375.weebly.com][website]](https://l375.weebly.com)
@@ -38,7 +38,7 @@
 [![Development Status][vsd-dev]][vsd]
 
 <!-- Badges -->
-[pronouns]: https://img.shields.io/badge/they%2Fhe%2Fany-e34fcd
+[pronouns]: https://img.shields.io/badge/any%20pronouns-e34fcd
 [country]: https://img.shields.io/badge/canada-f24040
 [lang]: https://img.shields.io/badge/en%2Ffr%2Fzh-f39316
 [website]: https://img.shields.io/badge/https%3A%2F%2Fl375.weebly.com-009663
